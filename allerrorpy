@@ -1,0 +1,40 @@
+
+
+# SyntaxError
+# print("samir)
+
+
+
+# run time Error
+# a=5
+# b=9
+# print(a+b/0)
+
+TypeError
+# a=10  this is int 
+# b="sam"  this is string
+# print(a+b)
+
+NameError
+# a=10
+# # result=a+b  b name is not defined
+# print(a+b)
+
+ValueError
+# a="hello"
+# print(int(a))  a is not interger value
+
+
+IndentationError
+# a="khan"
+#       print(a)  this is indention Error
+
+
+IndexError
+a=[5,6,9,8,9]
+# print(a[5])    the 5 value is out of range
+
+
+a=20
+b=5
+# print(a+b/20)     this is logical error beacuse output run but wrong
